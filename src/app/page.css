@@ -1,0 +1,31 @@
+/* Home.css */
+
+.default-table {
+    width: 100%;
+  border: 1px solid black;
+    margin-bottom: 20px;
+  }
+  
+  .pagination {
+    margin-top: 20px;
+  }
+  
+  .pagination button {
+    cursor: pointer;
+   
+    color: black;
+    border: none;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-right: 10px;
+    border-radius: 10px;
+  }
+  body{
+    font-size: 20px;
+  }
+  
+ 
+  
