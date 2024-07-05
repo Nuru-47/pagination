@@ -1,10 +1,11 @@
 import React from 'react';
+import './Loading.css';
 
-const Loading = () => {
+const Loading = ({ loading }) => {
     return (
         <div className="loading-spinner">
             <p>Loading...</p>
-            {/* Add your loading animation or spinner component here */}
+            {loading && <div className="loading-overlay"></div>}
         </div>
     );
 };
