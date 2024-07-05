@@ -1,55 +1,56 @@
-{ "data":    [
-    {
-        "candidateId": "94c2a3ec-4fb4-47c2-9aac-74b635d28d6a",
-        "name": "vedeeka",
-        "email": "parabveer0111@gmail.com",
-        "resume": null,
-        "yearOfExp": null,
-        "expertIn": null,
-        "githubUserId": "asd",
-        "badgesEarned": null,
-        "enrolledDate": "2024-05-28T00:00:00.000Z",
-        "interviewId": "49dd30ab-fda9-4afb-9bc5-cb8b53950e12",
-        "interviewStatus": "PASSED"
-    },
-    {
-        "candidateId": "e6985dc3-ae68-4ed7-bcf2-b8f8cf9a7751",
-        "name": "vedeeka",
-        "email": "test@gmail.com",
-        "resume": "resume",
-        "yearOfExp": 5,
-        "expertIn": "javascript, java",
-        "githubUserId": "kimtaehyungabcd",
-        "badgesEarned": "",
-        "enrolledDate": "2024-01-01T00:00:00.000Z",
-        "interviewId": "7e60e821-0a96-4508-a725-3466658487f0",
-        "interviewStatus": "FAILED"
-    },
-    {
-        "candidateId": "07d2a126-06db-46eb-b508-76fb49931083",
-        "name": "viraj",
-        "email": "3@gmail.com",
-        "resume": null,
-        "yearOfExp": null,
-        "expertIn": null,
-        "githubUserId": "asd",
-        "badgesEarned": null,
-        "enrolledDate": "2024-05-30T00:00:00.000Z",
-        "interviewId": "6d3b0693-73cf-476e-b6d9-8339413f9e98",
-        "interviewStatus": "PASSED"
-    },
-    {
-        "candidateId": "4791e5e8-4f57-4451-93b0-5d0c2b2f654c",
-        "name": "rajesh",
-        "email": "4@gmail.com",
-        "resume": null,
-        "yearOfExp": null,
-        "expertIn": null,
-        "githubUserId": "parab",
-        "badgesEarned": null,
-        "enrolledDate": "2024-05-30T00:00:00.000Z",
-        "interviewId": "96b74396-bbf5-4593-b8e3-bbfaf1ad74c7",
-        "interviewStatus": "FAILED"
-    }
-]
+{
+    "data": [
+        {
+            "candidateId": "94c2a3ec-4fb4-47c2-9aac-74b635d28d6a",
+            "name": "vedeeka",
+            "email": "parabveer0111@gmail.com",
+            "resume": null,
+            "yearOfExp": null,
+            "expertIn": null,
+            "githubUserId": "asd",
+            "badgesEarned": null,
+            "enrolledDate": "2024-05-28T00:00:00.000Z",
+            "interviewId": "49dd30ab-fda9-4afb-9bc5-cb8b53950e12",
+            "interviewStatus": "PASSED"
+        },
+        {
+            "candidateId": "e6985dc3-ae68-4ed7-bcf2-b8f8cf9a7751",
+            "name": "vedeeka",
+            "email": "test@gmail.com",
+            "resume": "resume",
+            "yearOfExp": 5,
+            "expertIn": "javascript, java",
+            "githubUserId": "kimtaehyungabcd",
+            "badgesEarned": "",
+            "enrolledDate": "2024-01-01T00:00:00.000Z",
+            "interviewId": "7e60e821-0a96-4508-a725-3466658487f0",
+            "interviewStatus": "FAILED"
+        },
+        {
+            "candidateId": "07d2a126-06db-46eb-b508-76fb49931083",
+            "name": "viraj",
+            "email": "3@gmail.com",
+            "resume": null,
+            "yearOfExp": null,
+            "expertIn": null,
+            "githubUserId": "asd",
+            "badgesEarned": null,
+            "enrolledDate": "2024-05-30T00:00:00.000Z",
+            "interviewId": "6d3b0693-73cf-476e-b6d9-8339413f9e98",
+            "interviewStatus": "PASSED"
+        },
+        {
+            "candidateId": "4791e5e8-4f57-4451-93b0-5d0c2b2f654c",
+            "name": "rajesh",
+            "email": "4@gmail.com",
+            "resume": null,
+            "yearOfExp": null,
+            "expertIn": null,
+            "githubUserId": "parab",
+            "badgesEarned": null,
+            "enrolledDate": "2024-05-30T00:00:00.000Z",
+            "interviewId": "96b74396-bbf5-4593-b8e3-bbfaf1ad74c7",
+            "interviewStatus": "FAILED"
+        }
+    ]
 }
