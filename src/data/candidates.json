@@ -1,56 +1,129 @@
 {
     "data": [
-        {
-            "candidateId": "94c2a3ec-4fb4-47c2-9aac-74b635d28d6a",
-            "name": "vedeeka",
-            "email": "parabveer0111@gmail.com",
-            "resume": null,
-            "yearOfExp": null,
-            "expertIn": null,
-            "githubUserId": "asd",
-            "badgesEarned": null,
-            "enrolledDate": "2024-05-28T00:00:00.000Z",
-            "interviewId": "49dd30ab-fda9-4afb-9bc5-cb8b53950e12",
-            "interviewStatus": "PASSED"
-        },
-        {
-            "candidateId": "e6985dc3-ae68-4ed7-bcf2-b8f8cf9a7751",
-            "name": "vedeeka",
-            "email": "test@gmail.com",
-            "resume": "resume",
-            "yearOfExp": 5,
-            "expertIn": "javascript, java",
-            "githubUserId": "kimtaehyungabcd",
-            "badgesEarned": "",
-            "enrolledDate": "2024-01-01T00:00:00.000Z",
-            "interviewId": "7e60e821-0a96-4508-a725-3466658487f0",
-            "interviewStatus": "FAILED"
-        },
-        {
-            "candidateId": "07d2a126-06db-46eb-b508-76fb49931083",
-            "name": "viraj",
-            "email": "3@gmail.com",
-            "resume": null,
-            "yearOfExp": null,
-            "expertIn": null,
-            "githubUserId": "asd",
-            "badgesEarned": null,
-            "enrolledDate": "2024-05-30T00:00:00.000Z",
-            "interviewId": "6d3b0693-73cf-476e-b6d9-8339413f9e98",
-            "interviewStatus": "PASSED"
-        },
-        {
-            "candidateId": "4791e5e8-4f57-4451-93b0-5d0c2b2f654c",
-            "name": "rajesh",
-            "email": "4@gmail.com",
-            "resume": null,
-            "yearOfExp": null,
-            "expertIn": null,
-            "githubUserId": "parab",
-            "badgesEarned": null,
-            "enrolledDate": "2024-05-30T00:00:00.000Z",
-            "interviewId": "96b74396-bbf5-4593-b8e3-bbfaf1ad74c7",
-            "interviewStatus": "FAILED"
-        }
+      {
+        "email": "rajkubal@hugeleap.com",
+        "name": "Raj Kubal",
+        "enrolled_date": "2024-07-01T22:22:37.128Z",
+        "phone_number": "9623250570"
+
+      },
+      {
+        "email": "virajparab@hugeleap.com",
+        "name": "Viraj Parab",
+        "enrolled_date": null,
+        "phone_number": "8390389726"
+
+      },
+      {
+      "email": "veedika@hugeleap.com",
+        "name": "Veedika Parab",
+        "enrolled_date": null,
+        "phone_number": "1234567890"
+
+      },
+      {
+        "email": "nurulddinmulla@gmail.com",
+        "name": "Nurulddin Mulla",
+        "enrolled_date": null,
+        "phone_number": "7057840720"
+
+      },
+      {
+        "email": "sarvesh@example.com",
+        "name": "Sarvesh Sawant",
+        "enrolled_date": "2022-03-01",
+        "phone_number": "1122334455"
+      },
+      {
+        "email": "yash@example.com",
+        "name": "Yash Tendulkar",
+        "enrolled_date": "2022-03-01",
+        "phone_number": "1122334455"
+      },
+      {
+        "email": "rohan@example.com",
+        "name": "Rohan Ayerkar",
+        "enrolled_date": "2022-03-01",
+        "phone_number": "1122334455"
+      },
+      {
+        "email": "sumit@example.com",
+        "name": "Sumit Swami",
+        "enrolled_date": "2022-03-01",
+        "phone_number": "1122334455"
+      },
+      {
+        "email": "nidhi@example.com",
+        "name": "Nidhi Sawant",
+        "enrolled_date": "2022-03-01",
+        "phone_number": "1122334455"
+      },
+      {
+        "email": "yaseen@example.com",
+        "name": "Yaseen Angadi",
+        "enrolled_date": "2022-03-01",
+        "phone_number": "1122334455"
+      },
+      {
+        "email": "melesha@example.com",
+        "name": "Melesha D'cunha",
+        "enrolled_date": "2022-03-01",
+        "phone_number": "1122334455"
+      },
+      {
+        "email": "muzi@example.com",
+        "name": "Muzi Sayed",
+        "enrolled_date": "2022-03-01",
+        "phone_number": "1122334455"
+      },
+      {
+        "email": "faizan@example.com",
+        "name": "Faizan Akabani",
+        "enrolled_date": "2022-03-01",
+        "phone_number": "1122334455"
+      },
+      {
+        "email": "rahul@example.com",
+        "name": "Rahul Kolkar",
+        "enrolled_date": "2022-03-01",
+        "phone_number": "1122334455"
+      },
+      {
+        "email": "nilesh@example.com",
+        "name": "Nilesh Kumar",
+        "enrolled_date": "2022-03-01",
+        "phone_number": "1122334455"
+      },
+      {
+        "email": "sadia@example.com",
+        "name": "Sadia Shaikh",
+        "enrolled_date": "2022-03-01",
+        "phone_number": "1122334455"
+      },
+      {
+        "email": "shreyash@example.com",
+        "name": "Shreyash Kadam",
+        "enrolled_date": "2022-03-01",
+        "phone_number": "1122334455"
+      },
+      {
+        "email": "nikesh@example.com",
+        "name": "Nikesh Thorat",
+        "enrolled_date": "2022-03-01",
+        "phone_number": "1122334455"
+      },
+      {
+        "email": "sameer@example.com",
+        "name": "Sameer Dakani",
+        "enrolled_date": "2022-03-01",
+        "phone_number": "1122334455"
+      },
+      {
+        "email": "darshan@example.com",
+        "name": "Darshan Naik",
+        "enrolled_date": "2022-03-01",
+        "phone_number": "1122334455"
+      }
     ]
-}
+  }
+  
